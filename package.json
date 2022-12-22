@@ -12,7 +12,9 @@
     ]
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^3.0.0",
+    "react-refresh": "0.10.0",
     "typescript": "latest",
-    "react-refresh": "0.10.0"
+    "vite": "^4.0.3"
   }
 }
