@@ -12,7 +12,8 @@
     ]
   },
   "devDependencies": {
-    "typescript": "latest",
-    "react-refresh": "0.10.0"
+    "react-refresh": "0.10.0",
+    "react-scripts": "^5.0.1",
+    "typescript": "latest"
   }
 }
