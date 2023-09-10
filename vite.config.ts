@@ -5,4 +5,4 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
 })
-console.log(Bun);
+console.log(typeof Bun === "object" && Bun);
