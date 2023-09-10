@@ -1,3 +1,7 @@
+# Danger
+
+This version of the solution has been deprecated in Bun 1.0, see https://github.com/JLarky/bun-netlify instead.
+
 # React with Bun runtime
 
 This is a React project bootstrapped with [bun](https://bun.sh/).
