@@ -1,3 +1,7 @@
+# Danger
+
+This version of the solution has been deprecated in Bun 1.0, see https://github.com/JLarky/bun-netlify instead.
+
 # React with Bun runtime
 
 This is a React project bootstrapped with [bun](https://bun.sh/).
@@ -24,7 +28,7 @@ You can start editing the page by modifying src/App.jsx. The page auto-updates a
 
 ## Prepare for builds
 
-[For react-scripts checkout main branch](https://github.com/JLarky/bun-netlify/tree/main)
+[For react-scripts checkout react-scripts branch](https://github.com/JLarky/bun-netlify/tree/react-scripts)
 
 Add `vite` and `@vitejs/plugin-react` to `devDependencies`:
 
